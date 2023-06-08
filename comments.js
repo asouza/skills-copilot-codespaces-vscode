@@ -1,3 +1,5 @@
+//Create web server
+
 // create a web server that can listen to requests for /comments and send back
 // the contents of comments.json
 // You can use the fs module's readFileSync method to read the contents of
